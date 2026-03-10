@@ -29,8 +29,8 @@ I facilitate the integration of advanced academic research with production-grade
 
 Contribution to multiple SCI-indexed publications and patents in applied cryptography and AI security.
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Contributions-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
-[![Medium](https://img.shields.io/badge/Medium-Technical_Writing-1a1a2e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang)
 
 ---
 
