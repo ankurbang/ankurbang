@@ -13,10 +13,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ankurbang
           template: classic
-          # Reducing 'base' to essentials to avoid API quota errors
-          base: ""
+          # Change this to "metadata" only
+          # This fetches your repos without the heavy header/activity stats
+          base: metadata
           config_timezone: UTC
+          # Language Plugin Configuration
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_colors: "c++:#1e3c72, rust:#1e3c72, python:#1e3c72, go:#1e3c72, java:#1e3c72"
+          # Optional: Filter out languages you don't want to count
+          plugin_languages_ignored: html, css, tex
