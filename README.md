@@ -59,7 +59,7 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 
 ---
 
-### Analytics
-<img src="https://visitcount.itsvg.in/api?id=ankurbang&label=Profile%20Views&color=1&icon=0&count_bg=%2312100E" />
+### System Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=50&section=footer"/>
