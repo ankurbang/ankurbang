@@ -21,5 +21,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_colors: "c++:#1e3c72, rust:#1e3c72, python:#1e3c72, go:#1e3c72, java:#1e3c72"
           plugin_languages_ignored: html, css, tex
-          plugin_languages_indepth: yes          # ← ADD THIS
-          plugin_languages_include_forks: yes    # ← AND THIS
+          plugin_languages_include_forks: yes    # keep this
+          # plugin_languages_indepth: yes        # removed - too heavy
