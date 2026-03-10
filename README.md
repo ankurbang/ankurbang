@@ -57,8 +57,6 @@ I have contributed to multiple SCI-indexed publications and patents in applied c
   <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
 ### Connect & Collaborate
 [LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:mr.ankurbang@gmail.com)
 
