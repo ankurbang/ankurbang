@@ -7,8 +7,6 @@
 
 I operate at the intersection of AI infrastructure and hardware-backed security. My work focuses on designing production-grade architectures that integrate cryptography with trusted execution environments (TEEs) for secure, large-scale distributed computing.
 
-**Strategic Objective:** Advancing confidential computing and secure AI execution as a Principal Engineer within global-scale infrastructure environments.
-
 ---
 
 ### Current Research & Development
@@ -40,22 +38,19 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 
 ---
 
-### Professional Network
+### Engineering Impact
 
-[LinkedIn](https://linkedin.com/in/ankurbang) | [Medium](https://medium.com/@mr.ankurbang) | [GitHub](https://github.com/ankurbang)
+[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurbang&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankurbang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### Engineering Impact & Contribution Metrics
+### Professional Network
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankurbang&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&theme=dark&hide_border=true&layout=compact" height="170" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurbang&theme=dark&hide_border=true" height="170" />
-</p>
+[LinkedIn](https://linkedin.com/in/ankurbang) | [Medium](https://medium.com/@mr.ankurbang) | [GitHub](https://github.com/ankurbang)
 
 ---
 
