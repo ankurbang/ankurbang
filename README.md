@@ -53,6 +53,16 @@ I have contributed to multiple SCI-indexed publications and patents in applied c
 #### Dynamic Engineering Metrics
 ![Language Metrics](github-metrics.svg)
 
+#### Primary Engineering Languages
+<p align="left">
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
+  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
+</p>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
