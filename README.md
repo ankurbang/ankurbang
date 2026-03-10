@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=150&section=header&text=Ankur%20Bang&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<div align="center">
-
 # Technical Lead | Cyber AI Products & Innovation
 **PhD in Computer Engineering • MBA in Technology Leadership**
 
@@ -27,15 +25,11 @@ I bridge the gap between deep academic research and production-grade AI engineer
 
 ---
 
-## ✦ Research & Publications ✦
+### 🔬 Research & Publications
 
-*Contributed to multiple SCI-indexed publications and patents in*
-*applied cryptography & AI security*
-
-<br>
+Contributed to multiple SCI-indexed publications and patents in applied cryptography & AI security.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Contributions-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
-&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-Technical_Writing-1a1a2e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang)
 
 ---
@@ -51,34 +45,32 @@ I bridge the gap between deep academic research and production-grade AI engineer
 
 ---
 
-### Engineering Impact
+### ⚡ Engineering Impact
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true&days=31" alt="Contribution Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true&days=31" alt="Contribution Graph" />
 
 #### Dynamic Engineering Metrics
 ![Language Metrics](github-metrics.svg)
 
 #### Primary Engineering Languages
-<p align="left">
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
-  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
-</p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
+<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
+<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
+<a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
 
-### Connect & Collaborate
+<img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
+
+---
+
+### 🤝 Connect & Collaborate
+
 [LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:mr.ankurbang@gmail.com)
 
 ![System Accesses](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
 
-</div>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=50&section=footer"/>
