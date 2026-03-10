@@ -1,40 +1,46 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=150&section=header&text=Ankur%20Bang&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# Technical Leadership & Systems Architecture
+# Technical Lead | Cyber AI Products & Innovation
+**PhD in Computer Engineering • MBA in Technology Leadership**
 
-### PhD | MBA | Technical Lead
-**Specialization:** AI Infrastructure • Confidential Computing • Security Architecture • Distributed Systems
-
-I operate at the intersection of AI infrastructure and hardware-backed security. My work focuses on designing production-grade architectures that integrate cryptography with trusted execution environments (TEEs).
+I bridge the gap between deep academic research and production-grade AI engineering. Currently, I lead **Cyber AI Product Innovation at Thales**, architecting scalable LLM systems and secure distributed architectures. My mission is to build resilient AI products that are secure by design, leveraging a decade of expertise in **Confidential Computing, Cryptography, and Zero-Trust frameworks.**
 
 ---
 
-### Current Research & Development
+### 🛡️ Strategic Focus: AI Product Engineering
 
-- **Remote Attestation:** Developing verifiable trust frameworks for multi-cloud deployments.
-- **WebAssembly Runtimes:** Optimizing WAMR and WASI for secure edge execution.
-- **Confidential Computing:** Implementing hardware-level security via Intel TDX, SGX, and ARM OP-TEE.
-- **Secure AI:** Designing private inference and training protocols inside hardware enclaves.
-
----
-
-### Professional Background
-
-- **PhD in Computer Engineering**
-- **MBA in Technology Leadership**
-- **Technical Lead:** Engineering secure AI platforms and enterprise-grade infrastructure.
+- **Agentic AI Architectures:** Designing autonomous, agent-based systems with robust identity and policy models.
+- **Secure Infrastructure:** Optimizing AI runtimes (Wasm/WASI) and hardware accelerators for verifiable execution.
+- **Trust & Verifiability:** Implementing Remote Attestation and Confidential Computing (TEE) for next-gen AI workloads.
+- **Risk Mitigation:** Proactively addressing supply-chain vulnerabilities, data privacy, and model-level risks.
 
 ---
 
-### Core Technology Stack
+### 🎓 Academic & Industry Excellence
 
-| Category | Technologies |
+- **Thales:** Leading Cyber AI product strategy and secure execution platforms.
+- **C-DAC:** Architected national-scale Metaverse and Zero-Trust identity frameworks.
+- **PhD (NIT Surat):** Research in ML-based IDS, IoT security, and lightweight cryptography.
+- **MBA (HRM):** Strategic vision in aligning human capital with technical innovation.
+
+---
+
+### 🔬 Research & Publications
+I have contributed to multiple SCI-indexed publications and patents in applied cryptography and AI security.
+
+[<img src="https://img.shields.io/badge/Google_Scholar-Research_Contributions-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
+[<img src="https://img.shields.io/badge/Medium-Technical_Blog-black?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mr.ankurbang)
+
+---
+
+### 🛠️ Core Technology Stack
+
+| Domain | Expert Level Technologies |
 | :--- | :--- |
-| **Systems & Low-Level** | C • C++ • Rust • Go • Java • WebAssembly (Wasm) |
-| **AI & Data Science** | Python • PyTorch • TensorFlow • Pandas • NumPy |
-| **API & Middleware** | FastAPI • gRPC • REST • GraphQL • Protocol Buffers |
-| **Infrastructure** | Docker • Kubernetes • AWS • Azure • Google Cloud • Linux |
-| **Security/TEE** | Intel TDX • SGX • ARM TrustZone • OP-TEE • TPM |
+| **Cyber AI** | LLM Orchestration • Agentic AI • Explainable AI (XAI) • PyTorch |
+| **Security** | Confidential Computing (TEEs) • FHE • Zero-Trust • PKI |
+| **Systems** | C • C++ • Rust • Go • WebAssembly (Wasm/WASI) • Linux |
+| **Infrastructure** | Docker • Kubernetes • AWS • Azure • GCP |
 
 ---
 
@@ -44,15 +50,8 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
 </p>
 
-#### Primary Engineering Languages
-<p align="left">
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
-  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
-  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
-</p>
+#### Dynamic Metrics (Processing...)
+![Language Metrics](https://github.com/ankurbang/ankurbang/blob/master/github-metrics.svg)
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -60,13 +59,9 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 
 ---
 
-### Professional Network
+### Connect & Collaborate
+[LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:your-email@example.com)
 
-[LinkedIn](https://linkedin.com/in/ankurbang) | [Medium](https://medium.com/@mr.ankurbang) | [GitHub](https://github.com/ankurbang)
-
----
-
-### System Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
+![System Accesses](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=50&section=footer"/>
