@@ -1,53 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Ankur%20Bang%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=150&section=header&text=Ankur%20Bang&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# 🛡️ Systems Security & AI Infrastructure 
-**Technical Lead | PhD | MBA**
+# Technical Leadership & Systems Architecture
 
-I specialize in the intersection of **Confidential Computing**, **AI Security**, and **Distributed Systems**. My work focuses on building verifiable, hardware-backed trust for the next generation of AI workloads.
+### PhD | MBA | Technical Lead
+**Specialization:** AI Infrastructure • Confidential Computing • Security Architecture • Distributed Systems
 
----
+I operate at the intersection of AI infrastructure and hardware-backed security. My work focuses on designing production-grade architectures that integrate cryptography with trusted execution environments (TEEs) for secure, large-scale distributed computing.
 
-### 🚀 Top-Tier Engineering Focus
-- 🏗️ **Architecting** production-grade Trusted Execution Environments (TEEs) using Intel TDX and ARM TrustZone.
-- ⚙️ **Optimizing** WebAssembly (Wasm) runtimes for secure, high-performance edge computing.
-- 🤖 **Hardening** AI models against adversarial attacks and ensuring data privacy during inference.
-- 🌐 **Scaling** distributed systems that require high availability and cryptographic guarantees.
+**Strategic Objective:** Advancing confidential computing and secure AI execution as a Principal Engineer within global-scale infrastructure environments.
 
 ---
 
-### 🛠️ Core Technology Stack
+### Current Research & Development
 
-| Domain | Technologies |
+- **Remote Attestation:** Developing verifiable trust frameworks for multi-cloud deployments.
+- **WebAssembly Runtimes:** Optimizing WAMR and WASI for secure edge execution.
+- **Confidential Computing:** Implementing hardware-level security via Intel TDX, SGX, and ARM OP-TEE.
+- **Secure AI:** Designing private inference and training protocols inside hardware enclaves.
+
+---
+
+### Professional Background
+
+- **PhD in Computer Engineering**
+- **MBA in Technology Leadership**
+- **Technical Lead:** Engineering secure AI platforms and enterprise-grade infrastructure.
+
+---
+
+### Core Technology Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Systems** | `C` • `C++` • `Rust` • `Linux Kernel` • `Wasm/WASI` |
-| **Security** | `Intel SGX/TDX` • `OP-TEE` • `Remote Attestation` • `TPM` |
-| **AI/ML** | `PyTorch` • `TensorFlow` • `Agentic Workflows` • `LLM Security` |
-| **Cloud/Infra** | `AWS` • `GCP` • `Azure` • `Docker` • `Kubernetes` |
+| **Systems & Low-Level** | C • C++ • Rust • Go • Java • WebAssembly (Wasm) |
+| **AI & Data Science** | Python • PyTorch • TensorFlow • Pandas • NumPy |
+| **API & Middleware** | FastAPI • gRPC • REST • GraphQL • Protocol Buffers |
+| **Infrastructure** | Docker • Kubernetes • AWS • Azure • Google Cloud • Linux |
+| **Security/TEE** | Intel TDX • SGX • ARM TrustZone • OP-TEE • TPM |
 
 ---
 
-### 📊 Engineering Impact
+### Professional Network
+
+[LinkedIn](https://linkedin.com/in/ankurbang) | [Medium](https://medium.com/@mr.ankurbang) | [GitHub](https://github.com/ankurbang)
+
+---
+
+### Engineering Impact & Contribution Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankurbang&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankurbang&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&theme=dark&hide_border=true&layout=compact" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurbang&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurbang&theme=dark&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 🌐 Digital Presence
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ankurbang)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@mr.ankurbang)
-[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>](https://www.researchgate.net/profile/Ankur-Bang)
+### Analytics
+<img src="https://visitcount.itsvg.in/api?id=ankurbang&label=Profile%20Views&color=1&icon=0&count_bg=%2312100E" />
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ankurbang&label=System%20Accesses&color=1&icon=5&count_bg=%2312100E" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=50&section=footer"/>
