@@ -41,17 +41,17 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 ### Engineering Impact
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
 </p>
 
 #### Primary Engineering Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" />
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
+  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
 </p>
 
 <p align="left">
