@@ -3,40 +3,40 @@
 # Technical Lead | Cyber AI Products & Innovation
 **PhD in Computer Engineering • MBA in Technology Leadership**
 
-I bridge the gap between deep academic research and production-grade AI engineering. Currently, I lead **Cyber AI Product Innovation at Thales**, architecting scalable LLM systems and secure distributed architectures. My mission is to build resilient AI products that are secure by design, leveraging a decade of expertise in **Confidential Computing, Cryptography, and Zero-Trust frameworks.**
+I facilitate the integration of advanced academic research with production-grade AI engineering. Currently leading **Cyber AI Product Innovation at Thales**, I architect scalable LLM systems and secure distributed architectures. My focus is on developing resilient AI products that are secure by design, leveraging a decade of expertise in **Confidential Computing, Cryptography, and Zero-Trust frameworks.**
 
 ---
 
-### 🛡️ Strategic Focus: AI Product Engineering
+### Strategic Focus: AI Product Engineering
 
-- **Agentic AI Architectures:** Designing autonomous, agent-based systems with robust identity and policy models.
-- **Secure Infrastructure:** Optimizing AI runtimes (Wasm/WASI) and hardware accelerators for verifiable execution.
-- **Trust & Verifiability:** Implementing Remote Attestation and Confidential Computing (TEE) for next-gen AI workloads.
-- **Risk Mitigation:** Proactively addressing supply-chain vulnerabilities, data privacy, and model-level risks.
-
----
-
-### 🎓 Academic & Industry Excellence
-
-- **Thales:** Leading Cyber AI product strategy and secure execution platforms.
-- **C-DAC:** Architected national-scale Metaverse and Zero-Trust identity frameworks.
-- **PhD (NIT Surat):** Research in ML-based IDS, IoT security, and lightweight cryptography.
-- **MBA (HRM):** Strategic vision in aligning human capital with technical innovation.
+* **Agentic AI Architectures:** Designing autonomous, agent-based systems with robust identity and policy models.
+* **Secure Infrastructure:** Optimizing AI runtimes (Wasm/WASI) and hardware accelerators for verifiable execution.
+* **Trust and Verifiability:** Implementing Remote Attestation and Confidential Computing (TEE) for next-generation AI workloads.
+* **Risk Mitigation:** Proactively addressing supply-chain vulnerabilities, data privacy, and model-level risks.
 
 ---
 
-### 🔬 Research & Publications
+### Professional and Academic History
 
-Contributed to multiple SCI-indexed publications and patents in applied cryptography & AI security.
+* **Thales:** Directing Cyber AI product strategy and secure execution platform development.
+* **C-DAC:** Architected national-scale Metaverse and Zero-Trust identity frameworks.
+* **PhD (NIT Surat):** Specialized research in ML-based IDS, IoT security, and lightweight cryptography.
+* **MBA (HRM):** Strategic alignment of human capital with technical innovation and business objectives.
+
+---
+
+### Research and Publications
+
+Contribution to multiple SCI-indexed publications and patents in applied cryptography and AI security.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Contributions-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
 [![Medium](https://img.shields.io/badge/Medium-Technical_Writing-1a1a2e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang)
 
 ---
 
-### 🛠️ Core Technology Stack
+### Technical Expertise
 
-| Domain | Expert Level Technologies |
+| Domain | Competencies |
 | :--- | :--- |
 | **Cyber AI** | LLM Orchestration • Agentic AI • Explainable AI (XAI) • PyTorch |
 | **Security** | Confidential Computing (TEEs) • FHE • Zero-Trust • PKI |
@@ -45,32 +45,35 @@ Contributed to multiple SCI-indexed publications and patents in applied cryptogr
 
 ---
 
-### ⚡ Engineering Impact
+### Engineering Impact
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true&days=31" alt="Contribution Graph" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true&days=31" alt="Contribution Graph" />
+</p>
 
-#### Dynamic Engineering Metrics
+#### Automated Language Analysis
 ![Language Metrics](github-metrics.svg)
 
-#### Primary Engineering Languages
+#### Core Programming Languages
+<p align="left">
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
+  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
+</p>
 
-<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-1e3c72?style=flat-square&logo=cplusplus&logoColor=white" /></a>
-<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/Rust-1e3c72?style=flat-square&logo=rust&logoColor=white" /></a>
-<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-1e3c72?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=go"><img src="https://img.shields.io/badge/Go-1e3c72?style=flat-square&logo=go&logoColor=white" /></a>
-<a href="https://github.com/ankurbang?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-1e3c72?style=flat-square&logo=openjdk&logoColor=white" /></a>
-<a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-1e3c72?style=flat-square&logo=webassembly&logoColor=white" /></a>
-
-<img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🤝 Connect & Collaborate
+### Contact Information
 
 [LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:mr.ankurbang@gmail.com)
 
 ![System Accesses](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=50&section=footer"/>
