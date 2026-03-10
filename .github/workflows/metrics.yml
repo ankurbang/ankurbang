@@ -1,26 +1,12 @@
-name: Metrics
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ankurbang
-          template: classic
-          # Change this to "metadata" only
-          # This fetches your repos without the heavy header/activity stats
-          base: metadata
-          config_timezone: UTC
-          # Language Plugin Configuration
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_colors: "c++:#1e3c72, rust:#1e3c72, python:#1e3c72, go:#1e3c72, java:#1e3c72"
-          # Optional: Filter out languages you don't want to count
-          plugin_languages_ignored: html, css, tex
+- uses: lowlighter/metrics@latest
+  with:
+    token: ${{ secrets.METRICS_TOKEN }}
+    user: ankurbang
+    template: classic
+    base: repositories        # ← Fix: was "metadata", needs repos to scan languages
+    config_timezone: UTC
+    plugin_languages: yes
+    plugin_languages_details: percentage
+    plugin_languages_limit: 8
+    plugin_languages_colors: "c++:#1e3c72, rust:#1e3c72, python:#1e3c72, go:#1e3c72, java:#1e3c72"
+    plugin_languages_ignored: html, css, tex
