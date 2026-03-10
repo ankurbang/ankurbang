@@ -44,8 +44,6 @@ I have contributed to multiple SCI-indexed publications and patents in applied c
 
 ---
 
----
-
 ### Engineering Impact
 
 <p align="left">
@@ -61,10 +59,8 @@ I have contributed to multiple SCI-indexed publications and patents in applied c
 
 ---
 
----
-
 ### Connect & Collaborate
-[LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/ankurbang) | [GitHub](https://github.com/ankurbang) | [Email](mailto:mr.ankurbang@gmail.com)
 
 ![System Accesses](https://komarev.com/ghpvc/?username=ankurbang&label=SYSTEM%20ACCESSES&color=1e3c72&style=flat-square)
 
