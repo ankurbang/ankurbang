@@ -47,11 +47,17 @@ I have contributed to multiple SCI-indexed publications and patents in applied c
 ### Engineering Impact
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true&hide_title=true&days=31" alt="Contribution Graph" />
 </p>
 
-#### Dynamic Metrics (Processing...)
-![Language Metrics](https://github.com/ankurbang/ankurbang/blob/master/github-metrics.svg)
+#### Dynamic Engineering Metrics
+![Language Metrics](https://github.com/ankurbang/ankurbang/blob/main/github-metrics.svg)
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
