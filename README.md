@@ -5,7 +5,7 @@
 ### PhD | MBA | Technical Lead
 **Specialization:** AI Infrastructure • Confidential Computing • Security Architecture • Distributed Systems
 
-I operate at the intersection of AI infrastructure and hardware-backed security. My work focuses on designing production-grade architectures that integrate cryptography with trusted execution environments (TEEs) for secure, large-scale distributed computing.
+I operate at the intersection of AI infrastructure and hardware-backed security. My work focuses on designing production-grade architectures that integrate cryptography with trusted execution environments (TEEs).
 
 ---
 
@@ -40,11 +40,17 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 
 ### Engineering Impact
 
-[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurbang&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ankurbang&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankurbang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
