@@ -10,12 +10,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Use the secret you created in repository settings
           token: ${{ secrets.METRICS_TOKEN }}
           user: ankurbang
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Reducing 'base' to essentials to avoid API quota errors
+          base: ""
           config_timezone: UTC
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_colors: "c++:#1e3c72, rust:#1e3c72, python:#1e3c72, go:#1e3c72, java:#1e3c72"
