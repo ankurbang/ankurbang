@@ -25,11 +25,20 @@ I bridge the gap between deep academic research and production-grade AI engineer
 
 ---
 
-### 🔬 Research & Publications
-I have contributed to multiple SCI-indexed publications and patents in applied cryptography and AI security.
+<div align="center">
 
-[<img src="https://img.shields.io/badge/Google_Scholar-Research_Contributions-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
-[<img src="https://img.shields.io/badge/Medium-Technical_Blog-black?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mr.ankurbang)
+## ✦ Research & Publications ✦
+
+*Contributed to multiple SCI-indexed publications and patents in*
+*applied cryptography & AI security*
+
+<br>
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Contributions-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.co.in/citations?user=r6Gpj1QAAAAJ)
+&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-Technical_Writing-1a1a2e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang)
+
+</div>
 
 ---
 
