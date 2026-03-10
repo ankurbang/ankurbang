@@ -41,15 +41,15 @@ I operate at the intersection of AI infrastructure and hardware-backed security.
 ### Engineering Impact
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurbang&bg_color=0d1117&color=ffffff&line=1e3c72&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&layout=compact&theme=dark&title_color=1e3c72&icon_color=1e3c72&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ankurbang&theme=dark&fire=1e3c72&ring=1e3c72&sideNums=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
