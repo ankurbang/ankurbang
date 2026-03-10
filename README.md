@@ -1,18 +1,94 @@
-# 💫 About Me:
-## Hi there 👋 I'm Ankur<br><br>Technical Lead | PhD | MBA  <br>AI Systems • Confidential Computing • Security Architecture • Distributed Systems<br><br>I am a **Technical Lead and researcher** working at the intersection of **AI infrastructure, confidential computing, and secure distributed systems**. My long-term goal is to evolve into a **Principal Engineer role in leading global technology companies**, driving large-scale architecture and innovation.<br><br>- 🔭 Currently working on **Remote Attestation, WASM runtimes, and Confidential Computing**<br>- 🧠 Researching **secure AI execution inside TEEs (TDX, SGX, OP-TEE)**<br>- ⚙️ Building **WASM-based secure runtimes and attestation frameworks**<br>- 🌐 Designing **AI infrastructure and distributed compute systems**<br>- 📚 PhD in Computer Engineering  | MBA in Technology Leadership<br>- 🎯 Aspiring to contribute as a **Principal Engineer in global tech companies**<br>- 💬 Ask me about **WASM, TDX, OP-TEE, Remote Attestation, AI Infrastructure**<br><br>---<br><br>### 🔬 Areas of Expertise<br>- Confidential Computing (TDX, SGX, TrustZone)<br>- WebAssembly Runtimes (WAMR, WASI)<br>- Remote Attestation Systems<br>- AI Infrastructure & LLM Platforms<br>- Secure Distributed Systems<br>- Systems Programming (C/C++, Rust)<br><br>---<br><br>### 🌍 Connect With Me<br>- GitHub: https://github.com/ankurbang  <br>- LinkedIn: https://linkedin.com/in/ankurbang
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Ankur%20Bang&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
+# 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurbang) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mr.ankurbang) 
+## Hi there 👋 I'm Ankur
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankurbang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankurbang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Technical Lead | PhD | MBA**  
+AI Systems • Confidential Computing • Security Architecture • Distributed Systems
+
+I work at the intersection of **AI infrastructure, secure computing, and large-scale distributed systems**.  
+My focus is building **production-grade architectures combining AI, cryptography, and trusted execution environments**.
+
+🚀 My long-term goal is to contribute as a **Principal Engineer**, designing secure global-scale systems and advancing **confidential computing and AI infrastructure**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankurbang&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 What I'm Working On
+
+- 🛡 **Remote Attestation frameworks**
+- ⚙️ **WebAssembly runtimes (WAMR, WASI)**
+- 🔐 **Confidential Computing (TDX, SGX, OP-TEE)**
+- 🤖 **Secure AI execution inside TEEs**
+- 🌐 **Distributed AI infrastructure and compute systems**
+
+---
+
+### 🎓 Background
+
+- 🎓 **PhD — Computer Engineering**
+- 🎓 **MBA — Technology Leadership**
+- 👨‍💻 **Technical Lead building secure AI and infrastructure platforms**
+
+---
+
+# 🔬 Areas of Expertise
+
+- Confidential Computing (TDX • SGX • TrustZone)
+- WebAssembly Runtimes (WAMR • WASI)
+- Remote Attestation Systems
+- Secure Distributed Systems
+- AI Infrastructure & LLM Platforms
+- Systems Programming (C • C++ • Rust)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnkurBang-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankurbang)
+
+[![Medium](https://img.shields.io/badge/Medium-AnkurBang-black?style=for-the-badge&logo=medium)](https://medium.com/@mr.ankurbang)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ankurbang-black?style=for-the-badge&logo=github)](https://github.com/ankurbang)
+
+---
+
+# 💻 Tech Stack
+
+### Systems & Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0072c6?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ankurbang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ankurbang&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbang&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 📈 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=ankurbang&icon=0&color=0)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
