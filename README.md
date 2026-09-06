@@ -3,7 +3,7 @@
 # Senior Staff / Senior Lead Software Engineer | AI & Quantum Systems
 **PhD in Computer Engineering • MBA in Technology Leadership**
 
-I facilitate the integration of advanced academic research with production-grade computing engineering. I architect next-generation financial infrastructure, high-performance AI workflows, and post-quantum cryptographic security models. My focus is on developing resilient, breakthrough technologies that are secure by design, leveraging over a decade of expertise across **Confidential Computing, Cyber and Quantum AI, and Zero-Trust frameworks.**
+I architect next-generation financial infrastructure, high-performance AI workflows, and post-quantum cryptographic security models. My focus is on developing resilient, breakthrough technologies that are secure by design, leveraging over a decade of expertise across **Confidential Computing, Cyber and Quantum AI, and Zero-Trust frameworks.**
 
 ---
 
